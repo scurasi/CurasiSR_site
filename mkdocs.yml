@@ -1,0 +1,20 @@
+site_name: Salvatore R. Curasi
+
+theme:
+  name: mkdocs
+  nav_style: dark
+  custom_dir: custom_theme/
+
+nav:
+  - Research:
+    - Wildfire & Canada's carbon cycle: 'canada.md'
+    - Tussocks in Tundra Ecosystems: 'tussocks.md'
+    - Open-source soil temperature data logger: "loggers.md"
+    - Other collaborative publications: "more.md"
+  - About: 'about.md'
+
+extra:
+  generator: false
+
+extra_css:
+  - extra.css
