@@ -1,7 +1,7 @@
 <div class="container">
     <div class="row">
         <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
-            <img src="../img/headshot.jpg" alt="headshot" width="600"/>
+            <img src="img/headshot.jpg" alt="headshot" width="600"/>
         </div>
         <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
             <p><h2>I am a Research Scientist with the Canadian Centre for Climate Modelling and Analysis (CCCma)</h2><p> based in Victoria, BC, Canada. I am also the Carbon Cycle and Climate co-section editor at <a href="https://link.springer.com/journal/40641/editorial-board">Current Climate Change Reports</a>. Before this, I was an interchange Canada post-doctoral fellow jointly with the climate processes section of Environment and Climate Change Canada (<a href="https://joemelton.weebly.com">Joe Melton</a>) and Carleton University (<a href="https://carleton.ca/cubiomet/">Elyn Humphreys</a>). I led the development of a Canada-specific version of the Canadian Land Surface Scheme, Including Biogeochemical Cycles (CLASSIC), annual meetings, and other external engagement efforts.<p>
@@ -18,17 +18,17 @@
        <div class="d-flex align-items-center justify-content-center h-100">
             <div class="socialicons">
                 <a href="https://scholar.google.com/citations?user=b00JPpcAAAAJ&hl=en&oi=ao">
-                    <img src="../img/google-scholar.svg" alt="Google Scholar" width="30" onMouseOver="this.src='../img/google-scholar-filled.svg'" onMouseOut="this.src='../img/google-scholar.svg'">
+                    <img src="img/google-scholar.svg" alt="Google Scholar" width="30" onMouseOver="this.src='img/google-scholar-filled.svg'" onMouseOut="this.src='img/google-scholar.svg'">
                 </a>
             </div>
             <div class="socialicons">
                 <a href="https://www.researchgate.net/profile/Salvatore-Curasi">
-                    <img src="../img/research-gate.svg" alt="Research Gatee" width="30" onMouseOver="this.src='../img/research-gate-filled.svg'" onMouseOut="this.src='../img/research-gate.svg'">
+                    <img src="img/research-gate.svg" alt="Research Gatee" width="30" onMouseOver="this.src='img/research-gate-filled.svg'" onMouseOut="this.src='img/research-gate.svg'">
                 </a>
             </div>
             <div class="socialicons">
                 <a href="https://ca.linkedin.com/in/salvatore-curasi-ph-d-069a318a">
-                    <img src="../img/linked-in.svg" alt="LinkedIn" width="30" onMouseOver="this.src='../img/linked-in-filled.svg'" onMouseOut="this.src='../img/linked-in.svg'">
+                    <img src="img/linked-in.svg" alt="LinkedIn" width="30" onMouseOver="this.src='img/linked-in-filled.svg'" onMouseOut="this.src='img/linked-in.svg'">
                 </a>
             </div>
         </div>

@@ -9,7 +9,7 @@
     <div class="row">
         <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
             <div>
-                <img src="/img/canada_1.jpg" width=75% alt="line graph">
+                <img src="img/canada_1.jpg" width=75% alt="line graph">
             </div>
             <p>
                 <p class="imagecaption">Evaluation of the new CLASSIC FWI fire model over the historical period</p>
@@ -17,7 +17,7 @@
         </div> 
         <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
             <div>
-                <img src="/img/canada_2.jpg" width=75% alt="line graphs">
+                <img src="img/canada_2.jpg" width=75% alt="line graphs">
             </div>
             <p>
                 <p class="imagecaption">Projections of Canada-wide burned area using CLASSIC under several common SSPs</p>
@@ -37,13 +37,13 @@
     <div class="row">
         <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
             <div>
-                <img src="/img/canada_3.jpg" width=75% alt="illustraitive diagram">
+                <img src="img/canada_3.jpg" width=75% alt="illustraitive diagram">
             </div>
                 <p class="imagecaption">CLASSIC with Canada-specific PFTS (map of dominant PFTs)</p>
         </div>
         <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
             <div>
-                <img src="/img/canada_4.jpg" width=75% alt="illustraitive diagram">
+                <img src="img/canada_4.jpg" width=75% alt="illustraitive diagram">
             </div>
                 <p class="imagecaption">CLASSICs mosaic representation of sub-grid scale heterogeneity resulting from disturbance</p>
 <div style="padding: 30px;">&nbsp;</div>
@@ -52,7 +52,7 @@
 </div>
 
 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-    <img src="/img/canada_5.jpg" width=100% alt="photo">
+    <img src="img/canada_5.jpg" width=100% alt="photo">
     <p class="imagecaption"><br> Canada's Carbon Cycle workshop group photo</p>
 </div>
 <br>
@@ -92,17 +92,17 @@
        <div class="d-flex align-items-center justify-content-center h-100">
             <div class="socialicons">
                 <a href="https://scholar.google.com/citations?user=b00JPpcAAAAJ&hl=en&oi=ao">
-                    <img src="../img/google-scholar.svg" alt="Google Scholar" width="30" onMouseOver="this.src='../img/google-scholar-filled.svg'" onMouseOut="this.src='../img/google-scholar.svg'">
+                    <img src="img/google-scholar.svg" alt="Google Scholar" width="30" onMouseOver="this.src='img/google-scholar-filled.svg'" onMouseOut="this.src='img/google-scholar.svg'">
                 </a>
             </div>
             <div class="socialicons">
                 <a href="https://www.researchgate.net/profile/Salvatore-Curasi">
-                    <img src="../img/research-gate.svg" alt="Research Gatee" width="30" onMouseOver="this.src='../img/research-gate-filled.svg'" onMouseOut="this.src='../img/research-gate.svg'">
+                    <img src="img/research-gate.svg" alt="Research Gatee" width="30" onMouseOver="this.src='img/research-gate-filled.svg'" onMouseOut="this.src='img/research-gate.svg'">
                 </a>
             </div>
             <div class="socialicons">
                 <a href="https://ca.linkedin.com/in/salvatore-curasi-ph-d-069a318a">
-                    <img src="../img/linked-in.svg" alt="LinkedIn" width="30" onMouseOver="this.src='../img/linked-in-filled.svg'" onMouseOut="this.src='../img/linked-in.svg'">
+                    <img src="img/linked-in.svg" alt="LinkedIn" width="30" onMouseOver="this.src='img/linked-in-filled.svg'" onMouseOut="this.src='img/linked-in.svg'">
                 </a>
             </div>
         </div>

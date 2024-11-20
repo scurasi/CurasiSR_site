@@ -12,7 +12,7 @@
         </div>
         <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
             <p>
-                <img src="/img/loggers_1.jpg" alt="data logger top view">
+                <img src="img/loggers_1.jpg" alt="data logger top view">
         </div>
     </div>
    <div style="background-color:#D4E9E2; padding: 30px;">
@@ -39,17 +39,17 @@
        <div class="d-flex align-items-center justify-content-center h-100">
             <div class="socialicons">
                 <a href="https://scholar.google.com/citations?user=b00JPpcAAAAJ&hl=en&oi=ao">
-                    <img src="../img/google-scholar.svg" alt="Google Scholar" width="30" onMouseOver="this.src='../img/google-scholar-filled.svg'" onMouseOut="this.src='../img/google-scholar.svg'">
+                    <img src="img/google-scholar.svg" alt="Google Scholar" width="30" onMouseOver="this.src='img/google-scholar-filled.svg'" onMouseOut="this.src='img/google-scholar.svg'">
                 </a>
             </div>
             <div class="socialicons">
                 <a href="https://www.researchgate.net/profile/Salvatore-Curasi">
-                    <img src="../img/research-gate.svg" alt="Research Gatee" width="30" onMouseOver="this.src='../img/research-gate-filled.svg'" onMouseOut="this.src='../img/research-gate.svg'">
+                    <img src="img/research-gate.svg" alt="Research Gatee" width="30" onMouseOver="this.src='img/research-gate-filled.svg'" onMouseOut="this.src='img/research-gate.svg'">
                 </a>
             </div>
             <div class="socialicons">
                 <a href="https://ca.linkedin.com/in/salvatore-curasi-ph-d-069a318a">
-                    <img src="../img/linked-in.svg" alt="LinkedIn" width="30" onMouseOver="this.src='../img/linked-in-filled.svg'" onMouseOut="this.src='../img/linked-in.svg'">
+                    <img src="img/linked-in.svg" alt="LinkedIn" width="30" onMouseOver="this.src='img/linked-in-filled.svg'" onMouseOut="this.src='img/linked-in.svg'">
                 </a>
             </div>
         </div>

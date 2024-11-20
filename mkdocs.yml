@@ -1,4 +1,5 @@
 site_name: Salvatore R. Curasi
+use_directory_urls: false
 
 theme:
   name: mkdocs
