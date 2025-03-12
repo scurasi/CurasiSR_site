@@ -70,6 +70,9 @@
         </ul>
         <span class="subheads">Collaborative publications:</span>
         <ul>
+            <li><a href="https://doi.org/10.5194/bg-20-2265-2023">Beaver et al., preprint in review (Canada domain disturbance forcings)</a></li>
+            <li><a href="https://doi.org/10.5194/bg-20-2265-2023">(https://doi.org/10.1038/s41612-024-00841-9
+)">Kirchmeier-Young et al., 2024 NPJ climate and atmospheric sciences (2023 wildfire attribution and emissions)</a></li>
             <li><a href="https://doi.org/10.5194/bg-20-2265-2023">Wang et al., 2023 (vegetation cover in CLASSIC)</a></li>
         </ul>
         <span class="subheads">Workshops & meetings:</span>
